@@ -1,6 +1,6 @@
 Edit on dev branch.
 git is  distributed version control system
-git is free software
+Git is a free software
 git is mutable index called stages
 <<<<<<< HEAD
 creating a new branch is quick.
